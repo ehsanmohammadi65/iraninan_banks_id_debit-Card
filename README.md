@@ -1,4 +1,4 @@
-# iraninan_banks_id_debit-Card
+# iranian_banks_id_debit-Card
 Presian
 لیست بانکهای ایران بهمراه شناسه بانک و ابتدای شماره کارتها
 جهت استفاده میتوانید لیست را در بانک اطلاعاتی خود وارد کنید
